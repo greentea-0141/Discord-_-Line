@@ -1,5 +1,5 @@
 var channel_access_token = ""
-var group_ID = "グループID(後で設定します)";
+var group_ID = "";
 
 function doPost(e) {
   //ここで場合分けする(GlitchからもDiscordのメッセをPostするので)
